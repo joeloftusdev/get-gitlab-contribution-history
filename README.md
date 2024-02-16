@@ -1,4 +1,4 @@
-## Gitlab commit history imported to Github
+## Import Gitlab commit history to Github
 
 ### Usage:
 ```
