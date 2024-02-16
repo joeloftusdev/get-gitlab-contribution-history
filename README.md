@@ -39,7 +39,7 @@ This script transfers the commit history from a GitLab repository to Github. It 
 
     Replace `<gitlab_repo_url>` with the URL of the GitLab repository and `<github_repo_url>` with the URL of the GitHub repository.
 
-4. Follow the prompts and instructions provided by the script.
+
 
 ### Note
 
