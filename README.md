@@ -1,4 +1,4 @@
-# GitLab to GitHub Commit History Transfer Script
+# GitLab to GitHub Contribution History Transfer Script
 
 ## Introduction
 
