@@ -14,8 +14,8 @@ This script transfers the commit history from a GitLab repository to Github. It 
 
 ### Prerequisites
 
-- Python 3.x installed on your system.
-- Both GitLab and GitHub repositories accessible with appropriate permissions.
+- Python installed.
+- Both GitLab and GitHub repositories accessible with the appropriate permissions.
 
 ### Running the Script
 
