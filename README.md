@@ -1,7 +1,5 @@
 # GitLab to GitHub Contribution History Transfer Script
 
-## Introduction
-
 This script transfers the commit history from a GitLab repository to Github. It performs the following tasks:
 
 1. Clones the GitLab repository locally.
